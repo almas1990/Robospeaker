@@ -6,3 +6,5 @@ Text input for speech synthesis.
 Choice between Hindi and Urdu languages for speech.
 Interactive and user-friendly.
 Give it a try and have fun experimenting with different texts and languages!
+credit CODEWITHHARRY
+https://www.youtube.com/@CodeWithHarry
